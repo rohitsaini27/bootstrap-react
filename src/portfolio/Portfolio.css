@@ -1,0 +1,25 @@
+.navbarlinks a:hover{
+    background-color: rgb(226, 83, 126);
+    font-size: 15px;
+    transition: 0.5s;
+}
+
+.main{
+    background-color: #000;
+    background-image:  linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 350px;
+}
+
+.img-container{
+    height: 400px;
+}
+
+.links{
+    text-decoration: none;
+    list-style: none;
+    font-size: 400;
+}
